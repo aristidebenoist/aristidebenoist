@@ -1,16 +1,18 @@
-# Hi there 👋
+## BIO
 
-<!--
-**aristidebenoist/aristidebenoist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer who specializes in motion and
+interaction. As an independant, I work with companies, agencies,
+startups and individuals all over the world.
 
-Here are some ideas to get you started:
+## PORTFOLIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ [aristide.benoist.com](https://www.aristidebenoist.com)
+
+## SOCIAL
+
+- [Email](mailto:aristide.benoist@gmail.com)
+- [Instagram](https://www.instagram.com/aristidebenoist)
+- [Twitter](https://twitter.com/AriBenoist)
+- [Linkedin](https://www.linkedin.com/in/aristide-benoist)
+- [Dribbble](https://dribbble.com/aristidebenoist)
+- [Behance](https://www.behance.net/aristidebenoist)
