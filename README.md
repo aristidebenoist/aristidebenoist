@@ -1,15 +1,15 @@
-### BIO
+## BIO
 
 I am a developer who specializes in motion and
 interaction.  
 As an independant, I work with companies, agencies,
 startups and individuals all over the world.
 
-### PORTFOLIO
+## PORTFOLIO
 
 [aristidebenoist.com](https://www.aristidebenoist.com)
 
-### SOCIAL
+## SOCIAL
 
 [Email](mailto:aristide.benoist@gmail.com)  
 [Instagram](https://www.instagram.com/aristidebenoist)  
