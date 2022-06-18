@@ -6,7 +6,7 @@ startups and individuals all over the world.
 
 ### PORTFOLIO
 
-[aristide.benoist.com](https://www.aristidebenoist.com)
+[aristidebenoist.com](https://www.aristidebenoist.com)
 
 ### SOCIAL
 
