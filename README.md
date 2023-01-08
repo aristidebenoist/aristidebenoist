@@ -1,6 +1,6 @@
 ## PORTFOLIO
 
-[aristidebenoist.com](https://www.aristidebenoist.com)
+[aristidebenoist.com](https://aristidebenoist.com)
 
 ## MAIL
 
