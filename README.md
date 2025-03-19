@@ -10,6 +10,4 @@
 
 [Instagram](https://www.instagram.com/aristidebenoist)  
 [Twitter](https://twitter.com/AristideBenoist)  
-[Linkedin](https://www.linkedin.com/in/aristide-benoist)  
-[Dribbble](https://dribbble.com/aristidebenoist)  
-[Behance](https://www.behance.net/aristidebenoist)  
+[Linkedin](https://www.linkedin.com/in/aristide-benoist)   
