@@ -9,5 +9,5 @@
 ## SOCIAL
 
 [Instagram](https://www.instagram.com/aristidebenoist)  
-[Twitter](https://twitter.com/AristideBenoist)  
+[X](https://x.com/AristideBenoist)  
 [Linkedin](https://www.linkedin.com/in/aristide-benoist)   
